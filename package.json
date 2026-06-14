@@ -1,5 +1,5 @@
 {
-  "name": "grant-analytics-dashboard",
+  "name": "analytics-dashboard-test",
   "version": "1.0.0",
   "description": "Analytics and reporting dashboard for grant and bounty performance.",
   "main": "index.js",

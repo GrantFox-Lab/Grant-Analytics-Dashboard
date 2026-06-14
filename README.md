@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Grant-Analytics-Dashboard</h1>
+  <h1>analytics-dashboard-test</h1>
   <p><strong>Analytics and reporting dashboard for grant and bounty performance.</strong></p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-Grant-Analytics-Dashboard is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
+analytics-dashboard-test is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
 
 ## ✨ Key Features
 
@@ -26,8 +26,8 @@ Grant-Analytics-Dashboard is a critical component of our decentralized ecosystem
 
 \\\ash
 # Clone the repository
-git clone https://github.com/YourOrganization/Grant-Analytics-Dashboard.git
-cd Grant-Analytics-Dashboard
+git clone https://github.com/YourOrganization/analytics-dashboard-test.git
+cd analytics-dashboard-test
 
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)
